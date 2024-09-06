@@ -1,0 +1,23 @@
+.own{
+    display: flex;
+    background-color: blueviolet;
+    color: #fff;
+    padding: 2rem;
+    margin: 1rem;
+    list-style: none;
+    border-radius: 10px;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.others{
+    display: flex;
+    background-color: rgb(43, 226, 162);
+    color: #000000;
+    padding: 2rem;
+    margin: 1rem;
+    list-style: none;
+    border-radius: 10px;
+    flex-direction: row;
+    align-items: flex-start;
+}
